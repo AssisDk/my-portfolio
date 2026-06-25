@@ -32,7 +32,7 @@ jobs:
           context: ./frontend
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/portfolio-frontend:latest
-      
+
       - name: Deploy to Hetzner
         uses: appleboy/ssh-action@v1.0.3
         with:
@@ -43,3 +43,5 @@ jobs:
             cd /var/www/min-portfolio
             docker compose pull
             docker compose up -d
+
+
