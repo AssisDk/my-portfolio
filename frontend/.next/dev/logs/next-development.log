@@ -1,0 +1,20 @@
+{"timestamp":"00:00:01.424","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.048","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:00:02.118","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:00:02.376","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:00:02.602","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:02.716","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:04:45.418","source":"Server","level":"LOG","message":"  Reload env: .env"}
+{"timestamp":"00:04:45.658","source":"Server","level":"ERROR","message":"(node:19896) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.\n(Use `node --trace-warnings ...` to show where the warning was created)"}
+{"timestamp":"00:46:30.464","source":"Server","level":"LOG","message":"  Reload env: .env"}
+{"timestamp":"00:46:31.264","source":"Server","level":"LOG","message":"✓ Compiled in 450ms"}
+{"timestamp":"00:46:31.306","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.315","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.431","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.437","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.591","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.596","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.601","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.606","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:46:31.611","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}
+{"timestamp":"00:52:44.023","source":"Server","level":"ERROR","message":"Fejl ved hentning af projekter: TypeError: fetch failed"}

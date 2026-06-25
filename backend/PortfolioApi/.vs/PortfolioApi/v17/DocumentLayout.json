@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\controllers\\projektercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\controllers\\projektercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\models\\projekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\models\\projekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|c:\\users\\bigve\\documents\\github\\min-portfolio\\backend\\portfolioapi\\portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDEF568A-DF30-4000-ADC0-71A8F6E4490F}|PortfolioApi\\PortfolioApi.csproj|solutionrelative:portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "PortfolioApi\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\appsettings.Production.json",
+              "RelativeToolTip": "PortfolioApi\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T20:56:19.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PortfolioApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PortfolioApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T15:57:33.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjekterController.cs",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Controllers\\ProjekterController.cs",
+              "RelativeDocumentMoniker": "PortfolioApi\\Controllers\\ProjekterController.cs",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Controllers\\ProjekterController.cs",
+              "RelativeToolTip": "PortfolioApi\\Controllers\\ProjekterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T14:49:44.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioApi\\Program.cs",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Program.cs",
+              "RelativeToolTip": "PortfolioApi\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T12:29:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projekt.cs",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Models\\Projekt.cs",
+              "RelativeDocumentMoniker": "PortfolioApi\\Models\\Projekt.cs",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Models\\Projekt.cs",
+              "RelativeToolTip": "PortfolioApi\\Models\\Projekt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T12:26:27.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PortfolioApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PortfolioApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T12:22:51.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PortfolioApi.csproj",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\PortfolioApi.csproj",
+              "RelativeDocumentMoniker": "PortfolioApi\\PortfolioApi.csproj",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\PortfolioApi.csproj",
+              "RelativeToolTip": "PortfolioApi\\PortfolioApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T12:09:08.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PortfolioApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\BIGve\\Documents\\GitHub\\min-portfolio\\backend\\PortfolioApi\\PortfolioApi\\appsettings.json",
+              "RelativeToolTip": "PortfolioApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T12:09:14.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
