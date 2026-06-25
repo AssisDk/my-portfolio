@@ -22,7 +22,7 @@ jobs:
       - name: Build and push backend image
         uses: docker/build-push-action@v6
         with:
-          context: ./backend/portfolioApi
+          context: ./backend/PortfolioApi
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/portfolio-backend:latest
 
