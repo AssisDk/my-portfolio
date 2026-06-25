@@ -44,3 +44,6 @@ next-env.d.ts
 github-actions-key
 github-actions-key.pub
 appsettings.*.json
+backend/PortfolioApi/PortfolioApi/obj/Debug/net8.0/PortfolioApi.AssemblyInfo.cs
+backend/PortfolioApi/PortfolioApi/obj/Debug/net8.0/PortfolioApi.AssemblyInfoInputs.cache
+backend/PortfolioApi/PortfolioApi/obj/Debug/net8.0/PortfolioApi.AssemblyInfoInputs.cache
